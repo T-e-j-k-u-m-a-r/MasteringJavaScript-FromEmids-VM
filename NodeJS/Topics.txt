@@ -1,0 +1,25 @@
+//NODE JS is a platform in which Javascript programs are executed
+//Its an Runtime Environment for executing JS code
+
+//Some examples of JS Engines are: 
+
+1. Spider Monkey -> Firefox Browser
+2. Chakra -> Internet Explorer Browser
+3. V8 -> Chrome Explorer
+
+Note: 
+
+i. V8 is the fastest JS Engine across all other engines. 
+ii. JavaScript is the only language which is used to develop (Front end, Middleware, Backend)
+--------------------------------------------------------------------------------------------
+NODE JS is 
+
+Not a framework
+Not a programming language
+Not a scripting language
+Is a JavsScript runtime environment developed to run/execute .js programs
+--------------------------------------------------------------------------------------------
+
+
+
+

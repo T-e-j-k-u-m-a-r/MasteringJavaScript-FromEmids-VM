@@ -1,0 +1,18 @@
+//JavaScript Topics - 15th Oct
+
+Part 1:: 
+
+1. Functions(ES5) - DONE
+2. Call back Functions - DONE
+3. IIFE - DONE
+    Note: Applicable for normal or ES5 function
+4. FAT Arrow Functions (ES6) - DONE
+    Note: Applicable for function expression
+-------------------------
+1. Hoisting in JS
+2. Variable Hoisting
+3. Function Hoisting
+4. ES5 & ES6
+5. How to perform debugging in JS
+-------------------------
+
